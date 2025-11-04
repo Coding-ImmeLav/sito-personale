@@ -28,3 +28,11 @@
     width: auto;
 }
 
+.logo {
+    width: 50%;
+}
+
+footer {
+    background-color: cadetblue;
+    padding: 5vh;
+}
